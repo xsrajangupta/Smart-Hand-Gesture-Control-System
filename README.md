@@ -1,4 +1,4 @@
-# 🤖 Smart Hand Gesture Control System
+#  Smart Hand Gesture Control System
 
 <p align="center">
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The **Smart Hand Gesture Control System** is a touchless Human-Computer Interaction (HCI) project that enables users to control computer functions using simple hand gestures. The system utilizes **Arduino Uno**, **HC-SR04 Ultrasonic Sensors**, and **Python** to recognize hand movements and convert them into computer commands.
 
@@ -19,20 +19,20 @@ This project demonstrates an affordable and efficient gesture-based interface th
 
 ---
 
-## ✨ Features
+##  Features
 
-- 👋 Touchless Hand Gesture Recognition
-- 🖱️ Cursor & Mouse Control
-- ⏭️ Next Slide
-- ⏮️ Previous Slide
-- 🔊 Volume Up / Down
-- ⚡ Real-Time Gesture Detection
-- 💻 Python-Arduino Serial Communication
-- 🎯 Low Cost & Easy to Build
+-  Touchless Hand Gesture Recognition
+-  Cursor & Mouse Control
+-  Next Slide
+-  Previous Slide
+-  Volume Up / Down
+-  Real-Time Gesture Detection
+-  Python-Arduino Serial Communication
+-  Low Cost & Easy to Build
 
 ---
 
-## 🛠 Hardware Requirements
+##  Hardware Requirements
 
 - Arduino Uno
 - HC-SR04 Ultrasonic Sensors
@@ -42,7 +42,7 @@ This project demonstrates an affordable and efficient gesture-based interface th
 
 ---
 
-## 💻 Software Requirements
+##  Software Requirements
 
 - Arduino IDE
 - Python 3.x
@@ -52,7 +52,7 @@ This project demonstrates an affordable and efficient gesture-based interface th
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Smart-Hand-Gesture-Control-System
@@ -79,7 +79,7 @@ Smart-Hand-Gesture-Control-System
 
 ---
 
-## ⚙️ Working Principle
+##  Working Principle
 
 1. Hand movement is detected using ultrasonic sensors.
 2. Arduino processes the distance values.
@@ -89,7 +89,7 @@ Smart-Hand-Gesture-Control-System
 
 ---
 
-## 🎥 Project Demo
+##  Project Demo
 
 ▶ **Watch the Complete Demo Video**
 
@@ -97,11 +97,10 @@ Smart-Hand-Gesture-Control-System
 
 > *Click the link above to watch the complete working demonstration.*
 
-> **Note:** GitHub README doesn't directly embed videos from Google Drive, so linking to the video is the recommended approach. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 📸 Project Images
+##  Project Images
 
 ### Circuit Diagram
 
@@ -129,7 +128,7 @@ Smart-Hand-Gesture-Control-System
 
 ---
 
-## 🚀 Applications
+##  Applications
 
 - Smart Presentations
 - Touchless PC Control
@@ -141,7 +140,7 @@ Smart-Hand-Gesture-Control-System
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 
 - AI-Based Gesture Recognition
 - Machine Learning Integration
@@ -152,7 +151,7 @@ Smart-Hand-Gesture-Control-System
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Srajan Gupta**
 
