@@ -1,0 +1,19 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Arduino
+*.ino.cpp
